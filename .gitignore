@@ -1,0 +1,30 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+
+# Original Power BI files
+*.pbix
+*.pbit
+
+# Internal project data
+streamlit_app/agents_segmentes22.csv
+
+# Trained model - pending sharing approval
+streamlit_app/model_pipeline.joblib
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,57 @@
+{
+  "genre": [
+    "Femme",
+    "Homme"
+  ],
+  "situation_familiale": [
+    "Célibataire",
+    "Divorcé",
+    "Divorcée",
+    "Marié",
+    "Mariée",
+    "Veuf",
+    "Veuve"
+  ],
+  "categorie_professionnelle": [
+    "Agents de maîtrise et techniciens",
+    "Employés",
+    "Ingénieurs, cadres et assimilés",
+    "Ouvriers et opérateurs"
+  ],
+  "categorie_anciennete": [
+    "Débutant",
+    "Expérimenté",
+    "Intermédiaire"
+  ],
+  "type_produit": [
+    "Chalet OCP",
+    "Hôtel-Club",
+    "Résidence conventionnée"
+  ],
+  "ville": [
+    "Agadir",
+    "Bouznika",
+    "Cabo Negro",
+    "El Jadida",
+    "Ifrane",
+    "M'diq",
+    "Marrakech",
+    "Saidia",
+    "Tanger"
+  ],
+  "saison": [
+    "Basse",
+    "Haute"
+  ],
+  "formule_restauration": [
+    "All Inclusive",
+    "Demi-pension",
+    "Hébergement seul"
+  ],
+  "type_vue": [
+    "Vue jardin",
+    "Vue mer",
+    "Vue piscine",
+    "Vue standard"
+  ]
+}
